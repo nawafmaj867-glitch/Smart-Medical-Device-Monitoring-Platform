@@ -1,49 +1,112 @@
 Smart Medical Device Monitoring Platform
-AI-powered platform for monitoring medical devices using IoT sensors and predictive analytics.
-
 Overview
-A smart healthcare platform designed to monitor medical devices through intelligent sensor modules and artificial intelligence.
+Smart Medical Device Monitoring Platform is an intelligent healthcare solution designed to monitor, manage, and analyze medical devices using IoT sensors and Artificial Intelligence.
 
-The system is divided into four categories:
+The platform collects operational data from medical devices through specialized sensor modules and displays device status in a centralized application. AI-powered analytics are used to predict potential failures, generate maintenance recommendations, calculate device health scores, and create automated reports.
 
-Class A
-Water and fluid-based medical devices:
+Classes
+Class A – Water & Fluid-Based Devices
+Target Devices:
 
-Temperature Monitoring
-Water Level Monitoring
-Water Flow Monitoring
-Water Leakage Detection
-Class B
-Control and operation devices:
+Dialysis Machines
+Steam Sterilizers
+Medical Cooling Systems
+Water Treatment Systems
+Monitored Parameters:
 
-Current Monitoring
+Temperature
+Water Level
+Water Flow
+Water Leakage
+Status: ✅ Prototype Developed and Tested
+
+Class B – Control & Operation Systems
+Target Devices:
+
+Medical Pumps
+Cooling Control Systems
+Electric Valves
+Monitored Parameters:
+
+Temperature
+Current Consumption
+Operating Status
+Features:
+
 Relay Control
 Servo Control
-Automatic and Manual Operation
-Class C
-Environmental and medical gas monitoring:
+Automatic and Manual Modes
+Status: 🔄 Under Development
 
-Gas Leakage Detection
-Humidity Monitoring
-Air Quality Monitoring
-Class D
-Advanced safety and protection systems:
+Class C – Environmental & Medical Gas Monitoring
+Target Devices:
+
+Anesthesia Machines
+Medical Gas Systems
+Laboratories
+Monitored Parameters:
+
+Gas Leakage
+Humidity
+Air Quality
+Ambient Temperature
+Status: 🔄 Under Development
+
+Class D – Advanced Safety & Protection Systems
+Target Devices:
+
+Critical Medical Equipment
+Operating Rooms
+Intensive Care Units
+Features:
 
 Emergency Stop
-Critical Alarm Protection
+Safety Lock Mode
+Critical Alarm Management
 Safe Shutdown System
-AI Features
+Status: 🔄 Under Development
+
+Mobile Application Features
+Department Management
+Device Monitoring
+Health Score Visualization
+Smart Notifications
+AI-Based Predictions
+Automated Reports
+Device History Tracking
+Artificial Intelligence Features
 Predictive Maintenance
 Device Health Score
-Automated Reports
+Performance Analysis
 Smart Recommendations
+Failure Prediction
+Automated Reporting
 Current Progress
-✅ Class A Prototype Developed
+✅ Class A Prototype Completed
 
-✅ Application UI Prototype Designed
+✅ Arduino Prototype Developed
 
-🔄 Class B Under Development
+✅ Tinkercad Simulation Completed
 
-🔄 Class C Under Development
+✅ Mobile Application UI Designed
 
-🔄 Class D Under Development
+✅ GitHub Project Repository Created
+
+🔄 Class B Development Planned
+
+🔄 Class C Development Planned
+
+🔄 Class D Development Planned
+
+Project Goal
+To improve medical device reliability, reduce unexpected equipment failures, support preventive maintenance, enhance patient safety, and accelerate digital transformation within healthcare facilities.
+
+Technologies
+Arduino
+Tinkercad
+IoT Sensors
+Artificial Intelligence
+Mobile Application
+GitHub
+Project Status
+Prototype Stage
